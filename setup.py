@@ -7,7 +7,7 @@ setup(
     package_data={'bootstrap3_datetime': ['static/bootstrap3_datetime/css/*.css', 
                                           'static/bootstrap3_datetime/js/*.js',
                                           'static/bootstrap3_datetime/js/locales/*.js',]},
-    version='3.0',
+    version='3.1',
     description='Bootstrap3 compatible datetimepicker for Django2/dPAC project.',
     long_description=open('README.rst').read(),
     author='David Pacheco',
