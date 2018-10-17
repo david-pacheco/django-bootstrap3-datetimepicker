@@ -18,6 +18,12 @@ Install
 * Add `'bootstrap3_datetime'` to your `INSTALLED_APPS`
 
 
+Publish
+-------------------------------
+
+* Run `python setup.py sdist`
+* Run `twine upload dist/* -r pypi`
+
 Example
 --------------------------------
 
@@ -89,6 +95,11 @@ Bootstrap3 and jQuery have to be included along with `{{ form.media }}`
 
 Release Notes
 -------------------------------
+
+###### v3.1.1
+
+* Made code compatible with Django >=2.1
+
 
 ###### v2.3
 
