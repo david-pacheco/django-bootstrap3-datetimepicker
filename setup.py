@@ -12,7 +12,7 @@ setup(
     long_description=open('README.rst').read(),
     author='David Pacheco',
     author_email='davidpch@gmail.com',
-    url='https://github.com/david-pacheco/django-bootstrap3-datetimepicker.git',
+    url='https://github.com/davidpch/django-bootstrap3-datetimepicker.git',
     license='Apache License 2.0',
     classifiers=[
         'Intended Audience :: Developers',
